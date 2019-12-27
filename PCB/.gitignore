@@ -1,0 +1,7 @@
+# Altium Designer Gitignore
+**/__Previews/
+**/History/*
+Project\ Logs*/
+Project\ Outputs*/
+*.PcbDoc.htm
+**/*.ldb
