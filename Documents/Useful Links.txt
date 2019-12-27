@@ -3,3 +3,12 @@ https://training.ti.com/bootloading-101
 
 TivaWare Boot Loader:
 http://www.ti.com/lit/ug/spmu301d/spmu301d.pdf
+
+e2e on tiva bootloading:
+https://e2e.ti.com/support/microcontrollers/other/f/908/t/654066
+
+LM Flash programmer:
+http://www.ti.com/tool/LMFLASHPROGRAMMER
+
+tivaWare Examples:
+C:\ti\TivaWare_C_Series-2.1.4.178\examples\boards\dk-tm4c123g
