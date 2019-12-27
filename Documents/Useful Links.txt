@@ -1,0 +1,5 @@
+TI Bootloading 101:
+https://training.ti.com/bootloading-101
+
+TivaWare Boot Loader:
+http://www.ti.com/lit/ug/spmu301d/spmu301d.pdf
